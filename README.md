@@ -1,0 +1,36 @@
+
+
+/*
+  --- Task A: LED Mode Controller ---
+  Name: Raja M Ayyaz
+  Roll No: CS-1278
+  course embeded iot
+
+*/
+https://wokwi.com/projects/443501685008112641
+
+<img width="1524" height="640" alt="image" src="https://github.com/user-attachments/assets/3bff6c6f-0e53-4aa2-874b-b7ce98a32aaf" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/647f06eb-95f0-4092-b3ed-9bae094030f6" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3d2b7cb4-2c2d-4a84-aa4b-12d3361aec00" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/06555c3e-2fdf-49ad-8355-037f23e4d12b" />
+
+
+
+
+Task B — Coding: Use a single button with press-type detection (display the event on the 
+OLED): 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d48e0ea6-34c1-4d47-89c8-8fe7b4cbf9fe" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5f81985f-9cfb-4fa5-90f6-7405d98ce9f2" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/47f6f7b9-936f-4d0b-8f69-6bef1777f216" />
+WOKWII LINK
+
+https://wokwi.com/projects/445903713265062913
+
+
+
+
+
+
+
